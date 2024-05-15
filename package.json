@@ -1,5 +1,5 @@
 {
-  "name": "certamen",
+  "name": "certamen2",
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
@@ -13,8 +13,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.19.2",
-    "uuid": "^9.0.1"
+    "node.js": "^0.0.1-security",
+    "uuid": "^9.0.1",
+    "yup": "^1.4.0",
+    "yup-locales": "^1.2.21"
   },
   "devDependencies": {
     "@vitest/ui": "^1.4.0",

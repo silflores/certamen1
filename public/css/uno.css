@@ -10,6 +10,8 @@
 .max-w-300px{max-width:300px;}
 .max-w-500px{max-width:500px;}
 .w-full{width:100%;}
+.flex{display:flex;}
+.justify-between{justify-content:space-between;}
 .gap-3{gap:0.75rem;}
 .border{border-width:1px;}
 .border-gray{--un-border-opacity:1;border-color:rgb(156 163 175 / var(--un-border-opacity));}
